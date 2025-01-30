@@ -1,4 +1,4 @@
-temperature,rainfall,humidity, yeild_apples
+temperature,rainfall,humidity
 49.00,18.00,10.00
 45.00,57.00,58.00
 87.00,65.00,5.00
